@@ -1,5 +1,5 @@
 train:
-    python train.py
+	python train.py
 
 validate:
-    python validate.py
+	python validate.py
